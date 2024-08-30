@@ -31,3 +31,7 @@ This project focuses on the simulation and analysis of key concepts in digital c
 ### 3. ISI and Raised Cosine Filters
 - Simulate the transmission and reception of signals using square root raised cosine filters with different roll-off factors and delays.
 - Generate and analyze eye patterns for various scenarios to study the effect of ISI.
+
+# Project Structure
+- Scripts/: MATLAB scripts for generating signals, applying filters, and performing analysis.
+- Results/: Output files including plots of filter outputs, BER curves, and eye patterns.
